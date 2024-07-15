@@ -1,0 +1,14 @@
+Git vs GitHub
+
+
+프로젝트를 받으면 checkout -> 수정하면 stage file -> 깃헙에 올릴 준비가 됐다. commit -> push 하면 깃에 올려가
+
+git bash  -> 
+git config --global user.name " "
+git config --global user.email 내 메일
+git init
+pwd - 내가 어디 디랙토리에 있는지 확인 
+
+git remote -v : 깃과 깃헙 연결.
+
+
